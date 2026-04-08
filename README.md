@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFE66D,100:4ECDC4&height=200&section=header&text=Khairul%20Alam%20Prachir&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20MIS%20Student%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:4ECDC4&height=40&text=Building%20for%20the%20web%20🚀%20|%20React%20%26%20MERN%20|%20Open%20to%20Work&fontColor=fff&fontSize=16&animation=twinkling" width="100%"/>
+<br/>
 
-<br/><br/>
+![Building](https://img.shields.io/badge/🚀%20Building-React%20%26%20MERN-FF6B6B?style=for-the-badge)
+![Status](https://img.shields.io/badge/💼%20Status-Open%20to%20Work-4ECDC4?style=for-the-badge)
 
-<!-- Social Badges -->
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khairul-alam-prachir/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KAprachir)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/funnybutserious)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaprachir23@gmail.com)
-[![Open to Work](https://img.shields.io/badge/💼%20Open%20To-Opportunities-4ECDC4?style=for-the-badge)](mailto:kaprachir23@gmail.com)
 
 </div>
 
@@ -161,19 +160,11 @@ const projects = [
 
 ![snake gif](https://raw.githubusercontent.com/KAprachir/KAprachir/output/github-contribution-grid-snake-dark.svg)
 
-> ⚙️ *Snake not showing? [Set up the GitHub Action here →](https://github.com/Platane/snk)*
-
 </div>
 
 ---
 
 <div align="center">
-
-**💬 Random Dev Quote**
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KAprachir&color=FF6B6B&style=for-the-badge&label=Profile+Views)
 
