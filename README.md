@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFE66D,100:4ECDC4&height=200&section=header&text=Khairul%20Alam%20Prachir&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20MIS%20Student%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Prachir+👋;Building+things+for+the+web+🚀;React+%26+Full+Stack+in+progress+⚛️;Open+to+opportunities+💼;Always+learning%2C+always+growing+🌱" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:4ECDC4&height=40&text=Building%20for%20the%20web%20🚀%20|%20React%20%26%20MERN%20|%20Open%20to%20Work&fontColor=fff&fontSize=16&animation=twinkling" width="100%"/>
 
 <br/><br/>
 
