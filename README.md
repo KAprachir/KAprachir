@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFE66D,100:4ECDC4&height=200&section=header&text=Khairul%20Alam%20Prachir&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20MIS%20Student%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFE66D,100:4ECDC4&height=200&section=header&text=Khairul%20Alam%20Prachir&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MIS%20Grad%20'26%20%7C%20Aspiring%20TPM&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-![Building](https://img.shields.io/badge/🚀%20Building-React%20%26%20MERN-FF6B6B?style=for-the-badge)
-![Status](https://img.shields.io/badge/💼%20Status-Open%20to%20Work-4ECDC4?style=for-the-badge)
+![Building](https://img.shields.io/badge/🚀%20Building-InternHive-FF6B6B?style=for-the-badge)
+![Status](https://img.shields.io/badge/💼%20Status-Open%20to%20Internship-4ECDC4?style=for-the-badge)
+![Grad](https://img.shields.io/badge/🎓%20Graduating-Dec%202026-FFE66D?style=for-the-badge)
 
 <br/>
 
@@ -26,20 +27,19 @@
 ```
 ```
 👤 Name    : Khairul Alam Prachir
-🎓 Degree  : BBA in Management Information Systems — 4th Year @ BRUR
+🎓 Degree  : BBA in Management Information Systems — Final Year @ BRUR (CGPA ~3.40)
 🌍 Based   : Rangpur, Bangladesh
-💻 Role    : Aspiring Web Developer
-🔥 Passion : 4+ years of loving web development
-🎯 Goal    : Build real-world apps & land my first dev role
+💻 Role    : Self-Taught MERN / Next.js Full Stack Developer
+🎯 Goal    : Land my 3-month internship (Oct–Dec 2026) & grow into a Technical Product Manager
 ```
 ```bash
 ┌──(prachir㉿github)-[~]
 └─$ cat current_status.txt
 ```
 ```
-⚛️  Mastering React 19 & the MERN stack
-🤖  Exploring AI tools & AI Fluency
-🌐  Building my public dev portfolio
+🧩  Building InternHive — a full-stack internship listing platform
+🔍  Actively applying for Web Dev & MIS-track internships (Oct–Dec 2026)
+📈  Practicing DSA in JavaScript, brushing up IELTS (target 7.0–7.5)
 📬  kaprachir23@gmail.com — always open to talk!
 ```
 
@@ -54,22 +54,29 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**🔩 Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 **🔧 Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-**📚 Currently Learning**
+**✨ Also Exploring**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 </div>
 
@@ -80,22 +87,40 @@
 ```javascript
 const projects = [
   {
-    name: "🌐 English Janala",
-    description: "Interactive English learning web app",
-    stack: ["HTML", "CSS", "JavaScript"],
+    name: "🧩 InternHive",
+    description: "Full-stack internship listing platform for students",
+    stack: ["Next.js (App Router)", "TypeScript", "Tailwind", "MongoDB", "Better Auth"],
+    status: "🚧 In Progress",
+  },
+  {
+    name: "💡 IdeaVault",
+    description: "Full-stack idea-sharing app, deployed on Vercel + Render",
+    stack: ["Next.js", "Better Auth", "Express.js", "MongoDB"],
+    status: "✅ Deployed",
+  },
+  {
+    name: "🧷 HireLoop",
+    description: "Job listing platform",
+    stack: ["Next.js", "MongoDB", "Express.js"],
     status: "✅ Completed",
   },
   {
-    name: "💳 Payoo MFT",
-    description: "Digital financial tools project",
-    stack: ["HTML", "CSS", "JavaScript"],
+    name: "🤝 Keen Keeper",
+    description: "Friend relationship management app",
+    stack: ["Next.js", "Tailwind", "DaisyUI", "Recharts"],
+    status: "✅ Deployed",
+  },
+  {
+    name: "🐐 QurbaniHat",
+    description: "University assignment web app",
+    stack: ["Next.js", "Better Auth", "Turso/SQLite"],
     status: "✅ Completed",
   },
   {
     name: "🤖 Digitools",
-    description: "AI-powered digital toolkit — my most ambitious build",
+    description: "AI-powered digital toolkit",
     stack: ["React 19", "Vite", "Tailwind CSS v4", "DaisyUI v5"],
-    status: "🚧 In Progress...",
+    status: "✅ Completed",
   },
 ];
 ```
@@ -122,13 +147,13 @@ const projects = [
 ## 🌱 Current Learning Path
 
 ```
-[React Fundamentals]      ████████████████████  100% ✅
-[React Router]            ████████████████████  100% ✅
-[API Fetching]            ████████████████░░░░   80% 🔄
-[React Advanced]          ████████████░░░░░░░░   60% 🔄
-[Node.js + Express]       ████████████░░░░░░░░   60% 🔄
-[MongoDB]                 ████████░░░░░░░░░░░░   40% 🔄
-[Full Stack Projects]     ██████░░░░░░░░░░░░░░   30% 🚧
+[React & Next.js Fundamentals]  ████████████████████  100% ✅
+[Full Stack Auth (Better Auth)] ██████████████████░░   90% 🔄
+[API Design & Fetching]         ████████████████████  100% ✅
+[TypeScript]                    ███████████████░░░░░   75% 🔄
+[DSA in JavaScript]             ██████████████░░░░░░   70% 🔄
+[MongoDB / Mongoose]            █████████████████░░░   85% 🔄
+[Full Stack Projects]           ████████████████░░░░   80% 🚧
 ```
 
 ---
@@ -140,9 +165,10 @@ const projects = [
 └─$ cat job_seeking.md
 ```
 ```
-🧑‍💻 Role      : Junior / Intern Web Developer
+🧑‍💻 Role      : Frontend / Full Stack Developer Intern (also open to MIS-track roles)
+📅 Timeline  : Mandatory internship window — October to December 2026
 🤝 Type      : Remote, Hybrid, or On-site (Bangladesh)
-💡 Interests : Frontend, Full Stack, React-based projects
+💡 Interests : Full Stack (Next.js/MERN), Product-minded engineering, TPM path
 📬 Contact   : kaprachir23@gmail.com
 🔗 LinkedIn  : linkedin.com/in/khairul-alam-prachir
 ```
